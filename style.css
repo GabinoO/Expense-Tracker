@@ -1,0 +1,48 @@
+#Header {
+  text-align : center;
+  font-size : 50px;
+}
+
+#instruction {
+  color : green;
+  text-align : center;
+  font-size : 25px;
+}
+
+#inputBoxes{
+  text-align : center;
+}
+
+#dateField {
+  width : 300px;
+}
+
+#addItem{
+  font-size : 14px;
+  height : 40px;
+  width : 120px;
+  border-radius : 5px;
+  border-color :  #74b72e;
+  background-color : #74b72e;
+  color : white;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse : collapse;
+}
+
+tr,th{
+  border: 1px solid #dddddd;
+  padding : 8px;
+}
+
+#toReplace {
+  padding : 8px;
+  font-size : 14px;
+}
+
+#temp {
+  background-color: #dddddd;
+}
